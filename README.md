@@ -10,7 +10,7 @@ Network and Information Security Specialist. I have five years of experience per
 
 
 # 💫 About Me:
-💻 I’m currently working on my own cybersecurity projects 🔒<br>⚡I’m looking to collaborate with other cybersecurity professionals and developers 📱<br>🚀 I’m currently learning CI/CD DevOps, BlockChain, ISO27001, ISO27032 🌐<br>🔍 Ask me about Ethical Hacking, Information Security, Python, Cloud Security  👨‍💻 <br>🏅 I’m looking for Team Working ⭐️ <br>
+💻 I’m currently working on my own cybersecurity projects 🔒<br>⚡I’m looking to collaborate with other cybersecurity professionals and developers 📱<br>🚀 I’m currently learning CI/CD DevOps, ISO27001, ISO27032 🌐<br>🔍 Ask me about Ethical Hacking, Information Security, Python, Cloud Security  👨‍💻 <br>🏅 I’m looking for Team Working ⭐️ <br>
 
 
 
