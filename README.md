@@ -1,6 +1,6 @@
-# 🖐 Hi Everyone!
+# 🖐 Hi Everyone, I'm Felipe!
 
-I'm Felipe, I'm from Colombia and I'm Cybersecurity Specialist 
+I'm from Colombia and I'm Cybersecurity Specialist 
 
 Network and Information Security Specialist. I have five years of experience performing different roles in the areas of Cyber Security, Operating Systems, SIEM and Firewall Administration, Vulnerability, Threat Modeling and Cloud Security. Likewise, I have worked in various areas of security software, cloud infrastructure, ethical hacking, penetration testing with incident response capabilities  💯 
 
