@@ -30,6 +30,5 @@ Network and Information Security Specialist. I have five years of experience per
 
 
 # ✔️ Contact & Socials:
-All my post and resume in my LinkedIn Profile  <a href="https://linkedin.com/in/feliperami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feliperami" height="30" width="40" /></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperami/) 
+All my post and resume in my LinkedIn Profile    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperami/) 
 
