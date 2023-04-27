@@ -24,18 +24,12 @@ Network and Information Security Specialist. I have five years of experience per
 ![](https://github-readme-streak-stats.herokuapp.com/?user=feliperami&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperami&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=feliperami&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # ✔️ Contact & Socials:
 All my post and resume in my LinkedIn Profile  <a href="https://linkedin.com/in/feliperami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feliperami" height="30" width="40" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperami/) 
-
-
-
 
