@@ -5,7 +5,7 @@ I'm Felipe, I'm from Colombia and I'm Cybersecurity Specialist
 Network and Information Security Specialist. I have five years of experience performing different roles in the areas of Cyber Security, Operating Systems, SIEM and Firewall Administration, Vulnerability, Threat Modeling and Cloud Security. Likewise, I have worked in various areas of security software, cloud infrastructure, ethical hacking, penetration testing with incident response capabilities  💯 
 
 
-👨🏻‍💻 Ethical Hacker | ISO 27001 Auditor | Cyber Security Specialist | Information & Network Security Expert | Cloud Security (Azure & AWS) | Windows | Linux | Microsoft O365 | SQL & Oracle DataBase | Python | Terraform 💻🔏
+👨🏻‍💻 Ethical Hacker | ISO 27001 Auditor | Cyber Security Specialist | Information & Network Security Expert | Cloud Security (Azure & AWS) | Windows | Linux | Microsoft O365 | SQL & Oracle DataBase | Python | Terraform 🔏
 
 
 
